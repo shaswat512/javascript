@@ -30,3 +30,4 @@ const arr = ['a', 'a', 'b', 'c', 'c'];
 const set = new Set(arr);
 
 console.log(set); 
+
