@@ -1,4 +1,4 @@
-/*let person = {
+let person = {
     fname : 'shaswat',
     lname : 'pandey',
     email : 'shaswatpandit@gmail.com'
@@ -23,7 +23,7 @@ email : 'shaswatpandit08@gmail.com'
 }
 for(let key in person){
     console.log(key,person[key]);
-}*/
+}
 
 //add method in javascript
 
