@@ -39,5 +39,3 @@ console.log(book);
 
 
 
-
-
